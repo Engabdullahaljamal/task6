@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "hey",
+    "description": "my first post",
+    "username": "ali",
+    "date": "2024-10-06 19:16:37"
+  },
+  {
+    "id": 2,
+    "title": "hey",
+    "description": "my first post",
+    "username": "ahmad",
+    "date": "2024-10-06 19:16:37"
+  },
+  {
+    "id": 4,
+    "title": "hello",
+    "description": "my third post",
+    "username": "lanaaaa",
+    "date": "2024-10-06 19:52:22"
+  },
+  {
+    "id": 7,
+    "title": "hey",
+    "description": "my third post",
+    "username": "abdullah",
+    "date": "2024-10-06 20:26:29"
+  },
+  {
+    "id": 8,
+    "title": "heyyyyy",
+    "description": "my second post",
+    "username": "mohammad",
+    "date": "2024-10-06 20:27:37"
+  },
+  {
+    "id": 9,
+    "title": "heyyyyy",
+    "description": "my second post",
+    "username": "suho",
+    "date": "2024-10-06 20:37:01"
+  },
+  {
+    "id": 10,
+    "title": "heloo",
+    "description": "my first post",
+    "username": "karam",
+    "date": "2024-10-06 20:37:23"
+  }
+]
